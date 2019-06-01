@@ -1,5 +1,5 @@
 # Nanodegree Engenheiro de Machine Learning: Projeto Final
-Competição do Kaggle: ![Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/data)
+Competição do Kaggle: [Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/data)
 
 **Arthur Pimenta**
 ## Descrição
